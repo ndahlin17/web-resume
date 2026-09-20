@@ -1,0 +1,40 @@
+/* Use of ChatGPT to help generate padding and learn borders */
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 30px;
+    color: black;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+    font-size: 32px;
+}
+
+header p {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 25px;
+}
+
+section h2 {
+    font-size: 16px;
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+}
